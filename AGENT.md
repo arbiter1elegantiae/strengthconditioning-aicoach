@@ -48,7 +48,7 @@ This document provides a set of guidelines for any AI agent assisting with the d
         *   `CI`: Change to the CI pipeline (e.g. github actions)
         *   `DATA`: Addition of sample data
     *   **Scope (Mandatory):** A short noun identifying the area of the codebase (e.g., `api`, `auth`, `db`, `ui-kit`, `docs`).
-    *   **Subject (Mandatory):** Must be in sentence-case or lower-case and must NOT end with a period.
+    *   **Subject (Mandatory):** Must be in sentence-case and must NOT end with a period.
 
 ## 5. Architectural Patterns
 

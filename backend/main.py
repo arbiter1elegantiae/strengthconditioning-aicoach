@@ -4,5 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    return
-   {"message": "AI Coach Backend is running"}
+    return {"message": "AI Coach Backend is running"}
